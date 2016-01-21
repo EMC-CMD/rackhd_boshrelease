@@ -1,0 +1,3 @@
+[submodule "src/RackHD"]
+	path = src/RackHD
+	url = https://github.com/RackHD/RackHD.git
